@@ -17,3 +17,7 @@ BEGIN
     commit;
 END;
 /
+
+
+
+Copiar en el portapapeles
